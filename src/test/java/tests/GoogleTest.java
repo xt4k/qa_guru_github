@@ -10,7 +10,7 @@ public class GoogleTest {
 
     @Test
     void selenideSearchTest() {
-      // Открыть google
+      // Открыть Google
       open("https://www.google.com/");
 
       // Ввести Selenide в поиск
